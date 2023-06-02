@@ -1,0 +1,6 @@
+2021-01-30; Budapest ; SNOWY
+2021-01-30; Mascow ; SNOWY
+2021-01-30; Barcelona ; SNOWY
+2021-01-31; Budapest ; SUNNY
+2021-01-31; Mascow ; SNOWY
+2021-01-31; Barcelona ; CLOUDY
